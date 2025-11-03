@@ -1,25 +1,31 @@
-## ⚠️ Not so fast! Do this first
+<div align="center" style="background-color:#3b1f1f; border:2px solid #8b0000; border-radius:10px; padding:20px; color:#f2f2f2;">
 
-> ![You better do what I say.](https://64.media.tumblr.com/e286c11a00a076d04d285ff9abf193d3/tumblr_p3ourkm1qD1wj7g4uo2_500.gif)
->
-> **Follow these steps before proceeding!**
+<h3>⚠️ Not so fast! Do this first</h3>
 
-### 🧭 Browser (Recommended)
-- [Edge with Baseline Policies and uBO on Windows](https://github.com/HotCakeX/Harden-Windows-Security?tab=readme-ov-file#edge-browser-configurations)
-- [Aggressive Brave Setup](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration)
-- [Firefox with uBO and my user.js](https://github.com/Wixlogo/firefox-mustdo)
+<img src="https://64.media.tumblr.com/e286c11a00a076d04d285ff9abf193d3/tumblr_p3ourkm1qD1wj7g4uo2_500.gif" width="450" alt="Warning GIF">
 
-### 🌐 DNS (Recommended)
-- [Base Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls#:~:text=What%20this%20guide%20covers)
-- [NextDNS](https://my.nextdns.io/)
-- **DNS Leak Test:** [Test 1](https://mullvad.net/en/check), [Test 2](https://dnscheck.tools/)
+<br><br>
 
-### 🕵️ VPN (Optional)
-Use if required by your region or use case:
-- [Mullvad](https://mullvad.net/)
-- [ProtonVPN](https://protonvpn.com/)
-- [Windscribe](https://windscribe.com/)
+<ul align="left">
+  <li><b>Well Configured Browser (Recommended)</b>: 
+  <a href="https://github.com/HotCakeX/Harden-Windows-Security?tab=readme-ov-file#edge-browser-configurations">Edge with Baseline Policies and uBO on Windows</a>, 
+  <a href="https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration">Aggressive Brave</a>, or 
+  <a href="https://github.com/Wixlogo/firefox-mustdo">Firefox with uBO along my user.js</a>.</li>
 
+  <li><b>DNS (Recommended)</b>: 
+  <a href="https://mullvad.net/en/help/dns-over-https-and-dns-over-tls#:~:text=What%20this%20guide%20covers">Base Mullvad DNS</a> or 
+  <a href="https://my.nextdns.io/">NextDNS</a>. 
+  DNS leak test: 
+  <a href="https://mullvad.net/en/check">1</a>, 
+  <a href="https://dnscheck.tools/">2</a>.</li>
+
+  <li><b>VPN (Optional - Depending upon your region and use case)</b>: 
+  <a href="https://mullvad.net/">Mullvad</a>, 
+  <a href="https://protonvpn.com/">ProtonVPN</a>, or 
+  <a href="https://windscribe.com/">Windscribe</a>.</li>
+</ul>
+
+</div>
 
 ---
 ## Table of Contents
