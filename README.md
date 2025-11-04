@@ -104,7 +104,6 @@
 20. [Software](#software)
 21. [Last.fm Tools](#lastfm-tools)
 
-
 ## Scanners
 - [VirusTotal](https://www.virustotal.com/)
 - [Urlscan.io](https://urlscan.io/)
@@ -376,14 +375,16 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 
 ### Image Generation
 [Spot AI-Generated Images](https://wasitai.com/)
+
 - Nano Banana: [AI Studio](https://aistudio.google.com/generate-image), [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) 100 per day (Gemini)
+- [Bing Create](https://www.bing.com/images/create)  Unlimited / GPT-4o
 - [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours
 - [LMArena](https://lmarena.ai/?mode=direct&chat-modality=image) - Google Login After 3
-- [Bing Create](https://www.bing.com/images/create)  Unlimited / GPT-4o
 - [AI Gallery](https://aigallery.app/) - Unlimited / No Sign-Up /
 - [Adobe Firefly](https://firefly.adobe.com) 
 
 ### Video Generation 
+- [Bing Create](https://www.bing.com/images/create)  Unlimited / GPT-4o
 - [AI Studio](https://aistudio.google.com/generate-video) - Veo 2
 - [Genmo](https://www.genmo.ai/) - 30 Monthly / [GitHub](https://github.com/genmoai/mochi)
 -  [PixVerse](https://pixverse.ai/) - 2 Daily
@@ -399,6 +400,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 - [Monochrome](https://monochrome.tf/#search/Dua%20Lipa)
 - [Beatsync](https://www.beatsync.gg) - Host Listening Parties.
 - [Shazam](https://www.shazam.com) - Music Finder.
+- [Spotify Song Downloader](https://spotisaver.net/)
 
 ---
 
@@ -408,6 +410,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 
 ### Browser
 - [Browser lol](https://browser.lol/)
+- [Browserling](https://www.browserling.com/)
 - [Sqrx](https://public.sqrx.com/web) 
 
 ### OS
