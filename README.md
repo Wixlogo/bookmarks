@@ -391,7 +391,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 - [Dreamina](https://dreamina.capcut.com/ai-tool/home) - 150 Monthly
 
 ### Text Generation
-- TextFX](https://textfx.withgoogle.com/) / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
+- [TextFX](https://textfx.withgoogle.com/) / [GitHub](https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx) or [Rytr](https://rytr.me/) - AI Creative Writing Tools / No Sign-Up
 
 ---
 ## Music
