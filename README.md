@@ -192,7 +192,7 @@
 #### Video Editing
 - [ClipJS](https://clipjs.vercel.app/) [Source](https://github.com/mohyware/clip-js)
 - [Wide.video](https://wide.video/)
--[Pikimov](https://pikimov.com/)
+- [Pikimov](https://pikimov.com/)
 
 
 ---
@@ -238,7 +238,7 @@ Use [VideoDownloadHelper](https://www.downloadhelper.net) on PC and [1DM](https:
 
 ### Anime
 #### Streaming
-- [AnimeKai](https://animekai.to/home, [2](https://animekai.cc/), [3](https://animekai.ac/), [4](https://anikai.to/)
+- [AnimeKai](https://animekai.to/home), [2](https://animekai.cc/), [3](https://animekai.ac/), [4](https://anikai.to/)
 - [Anime World India](https://watchanimeworld.in/), [2](https://animesalt.cc/)
 - [ToonStream](https://toonstream.love)
 
@@ -277,7 +277,7 @@ Use [VideoDownloadHelper](https://www.downloadhelper.net) on PC and [1DM](https:
 Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.  
 ### YouTube
 - [Invidious](https://inv.nadeko.net/watch?v=k2qgadSvNyU)
-- [Piped](https://piped.kavin.rocks)
+- [Piped](https://piped.private.coffee/)
 - [Poke](https://poketube.fun/watch?v=k2qgadSvNyU)
 - [YouT-ube](https://www.yout-ube.com) : Add "-" after t in any Youtube URL, eg: [youtube.com/watch?v=k2qgadSvNyU](https://www.youtube.com/watch?v=k2qgadSvNyU) becomes [yout-ube.com/watch?v=k2qgadSvNyU](https://www.yout-ube.com/watch?v=k2qgadSvNyU)
 - [SkipCut](https://skipcut.com) : Replace "youtube" with "skipcut" in any Youtube URL, eg: [youtube.com/watch?v=k2qgadSvNyU](https://www.youtube.com/watch?v=k2qgadSvNyU) becomes [skipcut.com/watch?v=k2qgadSvNyU](https://skipcut.com/watch?v=k2qgadSvNyU)
