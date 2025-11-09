@@ -239,6 +239,7 @@ Use [VideoDownloadHelper](https://www.downloadhelper.net) on PC and [1DM](https:
 ### Anime
 #### Streaming
 - [AnimeKai](https://animekai.to/home), [2](https://animekai.cc/), [3](https://animekai.ac/), [4](https://anikai.to/)
+- [Anigo](https://anigo.to/)
 - [Anime World India](https://watchanimeworld.in/), [2](https://animesalt.cc/)
 - [ToonStream](https://toonstream.love)
 
