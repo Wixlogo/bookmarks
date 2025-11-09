@@ -470,9 +470,9 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 - [RuTracker](https://rutracker.org/)
 - [Soft98](https://soft98.ir/) 
 - [Corel Draw Old Version Download (Official)](https://www.coreldraw.com/en/pages/download) 
-- [Photoshop](https://w16.monkrus.ws), [GenP](https://rentry.co/FMHYBase64#genp): [Base64 Decode](https://www.base64decode.org/)
+- [Adobe Photoshop](https://pastebin.com/Y9ZfuXca): [Base64 Decode](https://www.base64decode.org/)
 - [Spotify](https://github.com/SpotX-Official/SpotX)
-- [Malwarebytes](https://rentry.co/FMHYBase64#malwarebytes), [Base64 Decode](https://www.base64decode.org/) -  *[No longer works](https://i.ibb.co/h1YkKG6w/image.png)*
+- [Malwarebytes](https://rentry.co/FMHYB64#malwarebytes), [Base64 Decode](https://www.base64decode.org/) -  *[No longer works](https://i.ibb.co/h1YkKG6w/image.png)*
 - [WinRAR](https://rentry.co/x3-Rawr)
 - [Minecraft (Prism Launcher)](https://github.com/PrismLauncher/PrismLauncher) , [Guides](https://rentry.org/6epnbq3g)
 
