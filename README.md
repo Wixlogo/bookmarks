@@ -212,6 +212,7 @@
 ### Movies
 #### Streaming
 - [Cineby.app](https://www.cineby.gd/) / [Cineby.ru](https://www.cineby.ru)
+- [yFlix](https://yflix.to/), [Clones](https://rentry.co/sflix#yflix-clones) - Single Server
 - [Fmovies](https://www.fmovies.gd/)
 - [HydraHD](https://hydrahd.com/)
 - [P-Stream](https://pstream.mov/)
