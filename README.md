@@ -8,7 +8,7 @@
 
 <ul align="left">
   <li><b>Well Configured Browser (Recommended)</b>: 
-  <a href="https://github.com/HotCakeX/Harden-Windows-Security?tab=readme-ov-file#edge-browser-configurations">Edge with Baseline Policies and uBO on Windows</a>, 
+  <a href="https://github.com/HotCakeX/Harden-Windows-Security/wiki/Edge-Browser">Edge with Baseline Policies and uBO on Windows</a>, 
   <a href="https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration">Aggressive Brave</a>, or 
   <a href="https://github.com/Wixlogo/firefox-mustdo">Firefox with uBO along my user.js</a>.</li>
 
@@ -399,6 +399,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 ## Music
 - [DAB Music Player](https://dabmusic.xyz/)- Free High-Res Online Music Player and Downloader.
 - [Saavn Web UI](https://saavn-web-ui.vercel.app/#Dua%20Lipa) - Saavn Music Player & MP3 Downloader.
+- [YAMS](https://yams.tf/) - Deezer Audio Streaming / Downloading Site.
 - [Monochrome](https://monochrome.tf/#search/Dua%20Lipa)
 - [Beatsync](https://www.beatsync.gg) - Host Listening Parties.
 - [Shazam](https://www.shazam.com) - Music Finder.
