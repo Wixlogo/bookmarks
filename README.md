@@ -400,6 +400,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 - [DAB Music Player](https://dabmusic.xyz/)- Free High-Res Online Music Player and Downloader.
 - [Saavn Web UI](https://saavn-web-ui.vercel.app/#Dua%20Lipa) - Saavn Music Player & MP3 Downloader.
 - [YAMS](https://yams.tf/) - Deezer Audio Streaming / Downloading Site.
+- [⁠Vi•er](https://vibefetcher.com/) - Deezer Downloading Site.
 - [Monochrome](https://monochrome.tf/#search/Dua%20Lipa)
 - [Beatsync](https://www.beatsync.gg) - Host Listening Parties.
 - [Shazam](https://www.shazam.com) - Music Finder.
