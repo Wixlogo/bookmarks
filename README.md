@@ -431,7 +431,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 ## Wallpapers
 - [Wallpaper Engine Search Tool](https://rev-wallpaper-engine.github.io)
 - [MacOS Wallpapers](https://drive.google.com/drive/folders/1qutMH7gUl3pwZzXC23Alfgj88gkndus-)
-- [My Own wallaper pack :)](https://sites.google.com/view/wixlogo)
+- [My Own wallpaper pack :)](https://sites.google.com/view/wixlogo)
 ---
 
 ## Pastebin/Text Editor/Document Editor
