@@ -312,6 +312,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 ## Social Media Downloads
 
 ### YouTube
+- [AMP4](https://amp4.cc/)
 - [9xbuddy](https://9xbuddy.com/), [2](https://9xbuddy.online/), [3](https://9xbuddy.in/)
 - [Cobalt.tools](https://cobalt.tools)
 
