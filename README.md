@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#3b1f1f; border:2px solid #8b0000; border-radius:10px; padding:20px; color:#f2f2f2;">
+<div align="center" >
 
 <h3>⚠️ Not so fast! Do this first</h3>
 
