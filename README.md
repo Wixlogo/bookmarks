@@ -406,6 +406,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 - [Beatsync](https://www.beatsync.gg) - Host Listening Parties.
 - [Shazam](https://www.shazam.com) - Music Finder.
 - [Spotify Song Downloader](https://spotisaver.net/)
+- [Apple Music Downlaoder](https://am-dl.pages.dev/)
 
 ---
 
@@ -438,6 +439,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 ## Pastebin/Text Editor/Document Editor
 - [CryptPad](https://cryptpad.fr/) - Online Office.
 - [Kludd](https://kludd.co) - Markdown Writer.
+- [Mermditor](https://www.mermditor.dev/) · [StackEdit](https://stackedit.io/app) · [Markdown Live Preview](https://markdownlivepreview.org) - Web Editors with Markdown, LaTeX, and Mermaid Support
 - [PrivateBin](https://privatebin.net/) - PasteBin.
 - [ProtectedText](https://www.protectedtext.com) - Private Pastebin.
 - [RustPad](https://rustpad.io) - Live Code Share.
