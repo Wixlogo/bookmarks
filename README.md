@@ -438,6 +438,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 
 ## Pastebin/Text Editor/Document Editor
 - [CryptPad](https://cryptpad.fr/) - Online Office.
+- [Fileverse](https://fileverse.io) · [dSheets](https://dsheets.new) · [dDocs](https://ddocs.new)
 - [Kludd](https://kludd.co) - Markdown Writer.
 - [Mermditor](https://www.mermditor.dev/) · [StackEdit](https://stackedit.io/app) · [Markdown Live Preview](https://markdownlivepreview.org) - Web Editors with Markdown, LaTeX, and Mermaid Support
 - [PrivateBin](https://privatebin.net/) - PasteBin.
