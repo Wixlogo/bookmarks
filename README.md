@@ -343,7 +343,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 - [Kimi](https://www.kimi.com/)
 - [LMArena](https://lmarena.ai/)
 - [Perplexity](https://www.perplexity.ai/)
-- [Quen](https://chat.qwen.ai/)
+- [Qwen](https://chat.qwen.ai/)
 - [SolarAI](https://console.upstage.ai/playground/chat)
 - [Z AI](https://chat.z.ai/)
 ---
