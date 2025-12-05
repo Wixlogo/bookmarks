@@ -314,7 +314,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 ### YouTube
 - [AMP4](https://amp4.cc/)
 - [9xbuddy](https://9xbuddy.com/), [2](https://9xbuddy.online/), [3](https://9xbuddy.in/)
-- [Cobalt.tools](https://cobalt.tools)
+- [Cobalt.tools](https://cobalt.tools), [Without Turnstile(Unofficial)](https://cobalt.kwiatekmiki.com/)
 
 ### Instagram
 - [FastDL](https://fastdl.app)
@@ -330,11 +330,9 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 ## AI
 [AI Piracy Resources](https://rentry.co/aipiracyresources)
 [No Sign-up AI](https://rentry.org/o88tacrv)
-[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md)
-[FreeGPT4](https://rentry.org/freegpt4)
 
 - [AIStudio](https://aistudio.google.com/prompts/new_chat) Better way of UI [Google Gemini](https://gemini.google.com/u/3/app)
-- [ChatGPT](https://chatgpt.com/), [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
+- [ChatGPT](https://chatgpt.com/), [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/), [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md), [FreeGPT4](https://rentry.org/freegpt4), Shared accounts- [1](https://chatgptplus.cn) [2](https://sharedchat.cn)
 - [Claude](https://claude.ai/)
 - [Copilot](https://copilot.microsoft.com/)
 - [DeepSeek](https://chat.deepseek.com/)
@@ -345,6 +343,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 - [Kimi](https://www.kimi.com/)
 - [LMArena](https://lmarena.ai/)
 - [Perplexity](https://www.perplexity.ai/)
+- [Quen](https://chat.qwen.ai/)
 - [SolarAI](https://console.upstage.ai/playground/chat)
 - [Z AI](https://chat.z.ai/)
 ---
