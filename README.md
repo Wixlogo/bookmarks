@@ -378,7 +378,7 @@ Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.
 ### Image Generation
 [Spot AI-Generated Images](https://wasitai.com/)
 
-- Nano Banana: [AI Studio](https://aistudio.google.com/generate-image), [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) 100 per day (Gemini)
+- Nano Banana: [AI Studio](https://aistudio.google.com/generate-image), [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) 100 per day (Gemini) [⁠Image-Editor](https://image-editor.org/)
 - [Bing Create](https://www.bing.com/images/create)  Unlimited / GPT-4o
 - [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours
 - [LMArena](https://lmarena.ai/?mode=direct&chat-modality=image) - Google Login After 3
