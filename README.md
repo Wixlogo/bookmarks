@@ -120,7 +120,7 @@
 #### Temp Gmail/Outlook/Edu
 - [Smailpro](https://smailpro.com/temporary-email)
 - [Gmailnator](https://emailnator.com)
-- [EduMail](https://edumail.icu/), [Zenvex](https://zenvex.dev/) / [2](https://www.temporam.com/) / [3](https://tempsmail.org/) / [4](<https://tempmail.pw) / [5](https://www.emailgenerator.org/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
+- [EduMail](https://edumail.icu/), [Zenvex](https://zenvex.dev/) / [2](https://www.temporam.com/) / [3](https://tempsmail.org/) / [4](https://tempmail.pw) / [5](https://www.emailgenerator.org/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
 
 ### Temp SMS 
 - [SMSPool](https://www.smspool.net/free-sms-verification)
