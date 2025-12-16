@@ -33,7 +33,7 @@
 2. [Temp Verification](#temp-verification)
     1. [Mail](#mail)
         - [Random Domain](#random-domain)
-        - [Temp Gmail/Outlook](#temp-gmailoutlook)
+        - [Temp Gmail/Outlook](#temp-gmailoutlookedu)
     2. [Temp SMS](#temp-sms)
     3. [Temp CreditCard](#temp-creditcard)
 3. [Archive Services](#archive-services)
@@ -117,9 +117,10 @@
 - [TempMailPlus](https://tempmail.plus) [.onion](http://tempmail4gi5qfqzjs2bxo3wf6eurpelxmior6ohzq5vw7aeay67wiyd.onion)
 - [Tmail.link](https://tmail.link/) - No JS.
 
-#### Temp Gmail/Outlook
+#### Temp Gmail/Outlook/Edu
 - [Smailpro](https://smailpro.com/temporary-email)
 - [Gmailnator](https://emailnator.com)
+- [EduMail](https://edumail.icu/), [Zenvex](https://zenvex.dev/) / [2](https://www.temporam.com/) / [3](https://tempsmail.org/) / [4](<https://tempmail.pw) / [5](https://www.emailgenerator.org/), [Tempumail](https://tempumail.com/edu-mail-generator), [etempmail](https://eTempMail.com/) or [SecureTempMail](https://tempmail.edu.kg/en/) - .Edu Addresses
 
 ### Temp SMS 
 - [SMSPool](https://www.smspool.net/free-sms-verification)
@@ -335,8 +336,10 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 - [ChatGPT](https://chatgpt.com/), [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/), [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md), [FreeGPT4](https://rentry.org/freegpt4), Shared accounts- [1](https://chatgptplus.cn) [2](https://sharedchat.cn)
 - [Claude](https://claude.ai/)
 - [Copilot](https://copilot.microsoft.com/)
+- [DIG](https://tor.taxi/dig)
 - [DeepSeek](https://chat.deepseek.com/)
 - [Duck.ai](http://duck.ai/)
+- [Dolphin Chat](https://chat.dphn.ai/)
 - [Grok](https://grok.com/)
 - [Hugging Face Chat](https://huggingface.co/chat/)
 - [⁠ISH](https://ish.junioralive.in/)
@@ -346,6 +349,7 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 - [Qwen](https://chat.qwen.ai/)
 - [SolarAI](https://console.upstage.ai/playground/chat)
 - [Z AI](https://chat.z.ai/)
+- [Chat.Z](https://chat.z.ai/)
 ---
 
 ## File Sharing
