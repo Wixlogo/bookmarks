@@ -478,10 +478,10 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 [Android Phone Piracy](https://rentry.co/androidphonepiracy)
 [Android TV Piracy](https://rentry.co/androidtvpiracy)
 - [CracksURL](https://cracksurl.com/)
-
 - [RuTracker](https://rutracker.org/)
 - [Soft98](https://soft98.ir/) 
-- [Corel Draw Old Version Download (Official)](https://www.coreldraw.com/en/pages/download) 
+- [Corel Draw Old Version Download (Official)](https://www.coreldraw.com/en/pages/download)
+- [Affinity No login Guide](https://rentry.co/affinitynologin)
 - [Adobe Photoshop](https://pastebin.com/Y9ZfuXca): [Base64 Decode](https://www.base64decode.org/)
 - [Cursor AI](https://rentry.co/FMHYB64#cursor): [Base64 Decode](https://www.base64decode.org/)
 - [Spotify](https://github.com/SpotX-Official/SpotX)
