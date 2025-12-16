@@ -276,7 +276,7 @@ Use [VideoDownloadHelper](https://www.downloadhelper.net) on PC and [1DM](https:
 ---
 ## Instances - Use Social Media Without Login
 
-Use [@AximoBot](https://t.me/AximoBot) Telegram Bot to Receive Updates.  
+Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Receive Updates.  
 ### YouTube
 - [Invidious](https://inv.nadeko.net/watch?v=k2qgadSvNyU)
 - [Piped](https://piped.private.coffee/)
