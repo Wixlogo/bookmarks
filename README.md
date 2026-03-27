@@ -142,7 +142,7 @@
 
 ## PDF Tools
 - [Sejda](https://www.sejda.com/)
-- [BentoPDF](https://bentopdf.com/) / [GitHub](https://github.com/alam00000/bentopdf) - Local Version of [ILovePDF](https://www.ilovepdf.com/).
+- [BentoPDF](https://bentopdf.com/) / [IHatePDF](https://www.ihatepdf.cv) - Local Version of [ILovePDF](https://www.ilovepdf.com/).
 
 
 ---
@@ -213,7 +213,7 @@
 ### Movies
 #### Streaming
 - [Cineby.app](https://www.cineby.gd/) / [Cineby.ru](https://www.cineby.ru)
-- [yFlix](https://yflix.to/), [Clones](https://rentry.co/sflix#yflix-clones) - Single Server
+- [yFlix](https://yflix.to/), [Clones](https://rentry.co/sflix#yflix-clones) - Single Server.
 - [Fmovies](https://www.fmovies.gd/)
 - [HydraHD](https://hydrahd.com/)
 - [P-Stream](https://pstream.mov/)
@@ -268,7 +268,7 @@ Use [VideoDownloadHelper](https://www.downloadhelper.net) on PC and [1DM](https:
 - [Keepa](https://keepa.com): Amazon only.
  ---
 ## Books
-- [Anna's Archive](https://annas-archive.org/), [2](https://annas-archive.li/), [3](https://annas-archive.se/)
+- [Anna's Archive](https://annas-archive.gl/), [2](https://annas-archive.pk), [3](https://annas-archive.gd)
 - [Z-Library](https://z-lib.gd/), [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/) [onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
 - [Library Genesis](https://libgen.li/)
 
@@ -316,7 +316,6 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 - [AMP4](https://amp4.cc/)
 - [9xbuddy](https://9xbuddy.com/), [2](https://9xbuddy.online/), [3](https://9xbuddy.in/)
 - [Cobalt.tools](https://cobalt.tools), [Without Turnstile(Unofficial)](https://cobalt.kwiatekmiki.com/)
-
 ### Instagram
 - [FastDL](https://fastdl.app)
 
@@ -334,6 +333,7 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 
 - [AIStudio](https://aistudio.google.com/prompts/new_chat) Better way of UI [Google Gemini](https://gemini.google.com/u/3/app)
 - [ChatGPT](https://chatgpt.com/), [r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/), [Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt/blob/main/README_en.md), [FreeGPT4](https://rentry.org/freegpt4), Shared accounts- [1](https://chatgptplus.cn) [2](https://sharedchat.cn)
+- [Arena](https://arena.ai/text/direct), [2](https://canaryarena.ai/text/direct)
 - [Claude](https://claude.ai/)
 - [Copilot](https://copilot.microsoft.com/)
 - [DIG](https://tor.taxi/dig)
@@ -344,12 +344,11 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 - [Hugging Face Chat](https://huggingface.co/chat/)
 - [⁠ISH](https://ish.junioralive.in/)
 - [Kimi](https://www.kimi.com/)
-- [LMArena](https://lmarena.ai/)
 - [Perplexity](https://www.perplexity.ai/)
 - [Qwen](https://chat.qwen.ai/)
 - [SolarAI](https://console.upstage.ai/playground/chat)
-- [Z AI](https://chat.z.ai/)
 - [Chat.Z](https://chat.z.ai/)
+- [Z.ai](https://zai.is/)
 ---
 
 ## File Sharing
@@ -382,15 +381,14 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 ### Image Generation
 [Spot AI-Generated Images](https://wasitai.com/)
 
-- Nano Banana: [AI Studio](https://aistudio.google.com/generate-image), [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) 100 per day (Gemini) - 100 per day (Gemini)
+- Nano Banana: [AI Studio](https://aistudio.google.com/generate-image), [Gemini](https://gemini.google.com/), or [Whisk](https://labs.google/fx/en/tools/whisk) 100 per day (Gemini)
 - [⁠Free Image-generator](https://image-editor.org/), [⁠Free Image-Editor](https://image-editor.org/editor) - Unlimited / Editing / Nano Banana
 - [Bing Create](https://www.bing.com/images/create)  Unlimited / GPT-4o
 - [Qwen](https://chat.qwen.ai/) - 30 Per 24 Hours
 - [LMArena](https://lmarena.ai/?mode=direct&chat-modality=image) - Google Login After 3
 - [AI Gallery](https://aigallery.app/) - Unlimited / No Sign-Up /
-- [Adobe Firefly](https://firefly.adobe.com)
+- [Adobe Firefly](https://firefly.adobe.com) 
 - [dqy0lgh2oz](https://perchance.org/dqy0lgh2oz)
-
 ### Video Generation 
 - [Bing Create](https://www.bing.com/images/create)  Unlimited / GPT-4o
 - [AI Studio](https://aistudio.google.com/generate-video) - Veo 2
@@ -403,7 +401,7 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 
 ---
 ## Music
-- [DAB Music Player](https://dabmusic.xyz/)- Free High-Res Online Music Player and Downloader.
+- [DAB Music Player](https://dabmusic.xyz/) - Free High-Res Online Music Player and Downloader.
 - [Saavn Web UI](https://saavn-web-ui.vercel.app/#Dua%20Lipa) - Saavn Music Player & MP3 Downloader.
 - [YAMS](https://yams.tf/) - Deezer Audio Streaming / Downloading Site.
 - [⁠Vi•er](https://vibefetcher.com/) - Deezer Downloading Site.
@@ -411,7 +409,8 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 - [Beatsync](https://www.beatsync.gg) - Host Listening Parties.
 - [Shazam](https://www.shazam.com) - Music Finder.
 - [Spotify Song Downloader](https://spotisaver.net/)
-- [Apple Music Downlaoder](https://am-dl.pages.dev/)
+ - [Apple Music Downlaoder](https://am-dl.pages.dev/)
+- [Yoinkifly](https://yoinkify.com/) - Spotify FLAC Downlaoder.
 
 ---
 
@@ -438,17 +437,18 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 ## Wallpapers
 - [Wallpaper Engine Search Tool](https://rev-wallpaper-engine.github.io)
 - [MacOS Wallpapers](https://drive.google.com/drive/folders/1qutMH7gUl3pwZzXC23Alfgj88gkndus-)
-- [My Own wallpaper pack :)](https://sites.google.com/view/wixlogo)
+- [My Own Wallpaper pack :)](https://sites.google.com/view/wixlogo)
 ---
 
 ## Pastebin/Text Editor/Document Editor
 - [CryptPad](https://cryptpad.fr/) - Online Office.
-- [Fileverse](https://fileverse.io) · [dSheets](https://dsheets.new) · [dDocs](https://ddocs.new)
+- [[Fileverse](https://fileverse.io): [Docs](https://dsheets.new) [Sheets](https://ddocs.new)
 - [Kludd](https://kludd.co) - Markdown Writer.
 - [Mermditor](https://www.mermditor.dev/) · [StackEdit](https://stackedit.io/app) · [Markdown Live Preview](https://markdownlivepreview.org) - Web Editors with Markdown, LaTeX, and Mermaid Support
-- [PrivateBin](https://privatebin.net/) - PasteBin.
+- [PrivateBin](https://privatebin.net/), [NoteBin](https://notebin.de/) or [⁠ZeroBin](https://www.zerobin.net/)
 - [ProtectedText](https://www.protectedtext.com) - Private Pastebin.
 - [RustPad](https://rustpad.io) - Live Code Share.
+
 
 ## Stock Images
 - [Unsplash](https://unsplash.com)
@@ -480,14 +480,15 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 - [CracksURL](https://cracksurl.com/)
 - [RuTracker](https://rutracker.org/)
 - [Soft98](https://soft98.ir/) 
-- [Corel Draw Old Version Download (Official)](https://www.coreldraw.com/en/pages/download)
-- [Affinity No login Guide](https://rentry.co/affinitynologin)
+- [Corel Draw Old Version Download (Official)](https://www.coreldraw.com/en/pages/download) 
 - [Adobe Photoshop](https://pastebin.com/Y9ZfuXca): [Base64 Decode](https://www.base64decode.org/)
+- [Affinity No login Guide](https://rentry.co/affinitynologin)
 - [Cursor AI](https://rentry.co/FMHYB64#cursor): [Base64 Decode](https://www.base64decode.org/)
 - [Spotify](https://github.com/SpotX-Official/SpotX)
 - [Malwarebytes](https://rentry.co/FMHYB64#malwarebytes), [Base64 Decode](https://www.base64decode.org/) -  *[No longer works](https://i.ibb.co/h1YkKG6w/image.png)*
 - [WinRAR](https://rentry.co/x3-Rawr)
 - [Minecraft (Prism Launcher)](https://github.com/PrismLauncher/PrismLauncher) , [Guides](https://rentry.org/6epnbq3g)
+
 
 ---
 
