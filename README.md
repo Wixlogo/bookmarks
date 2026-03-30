@@ -442,6 +442,7 @@ Use [@AximoBot](https://t.me/aximobot?start=ref7693381168) Telegram Bot to Recei
 
 ## Pastebin/Text Editor/Document Editor
 - [CryptPad](https://cryptpad.fr/) - Online Office.
+- [OnlyOffice on web](https://office.ziziyi.com/) - OnlyOffice On web
 - [[Fileverse](https://fileverse.io): [Docs](https://dsheets.new) [Sheets](https://ddocs.new)
 - [Kludd](https://kludd.co) - Markdown Writer.
 - [Mermditor](https://www.mermditor.dev/) · [StackEdit](https://stackedit.io/app) · [Markdown Live Preview](https://markdownlivepreview.org) - Web Editors with Markdown, LaTeX, and Mermaid Support
